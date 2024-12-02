@@ -20,7 +20,7 @@
 
 - Now select the api folder and create all  the files in api
 
-- now go to the GetResume.cs file in the terminal and use <func host start> command it will run the azure function (this HTTP triggered function executed successfully)
+- now go to the GetResume.cs file in the terminal and use <func start> command it will run the azure function (this HTTP triggered function executed successfully)
 
 ## Test Locally
 - We'll test our function locally and make sure we can view our counter data in the browser and in our website locally.
